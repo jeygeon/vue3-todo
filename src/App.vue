@@ -1,9 +1,5 @@
 <template>
-  <v-app>
-    <v-container>
-      <v-text-field label="First name" variant="underlined"></v-text-field>
-    </v-container>
-  </v-app>
+  <div></div>
 </template>
 
 <script setup></script>
